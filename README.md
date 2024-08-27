@@ -1,0 +1,2 @@
+# Face-Recognition-Attendance-System-Using-OpenCV-and-Caffe
+This project implements a face recognition system using OpenCV’s DNN module - Caffe and OpenFace for face embeddings. The system captures video frames, extracts facial features, and compares them with a pre-trained dataset of images to mark attendance. It is designed for scalability, ensuring accurate predictions with minimal storage requirements.
