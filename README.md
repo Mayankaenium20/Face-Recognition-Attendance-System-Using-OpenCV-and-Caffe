@@ -1,4 +1,4 @@
-# Face Recognition Attendance System
+# Face Recognition System Using OpenCV and Caffe
 
 ## Project Overview
 
