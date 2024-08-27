@@ -38,6 +38,20 @@ Face Recognition using Caffe/
 └── README.md              # Project documentation
 ```
 
+## Dataset
+
+### Training Dataset
+
+The model is trained and evaluated using a custom dataset. Each image should be named in the format <name>.extension, where <name> represents the label of the person in the image.
+To test the main.py file, you can use the LFW (Labeled Faces in the Wild) dataset. 
+
+This dataset contains labeled images of celebrities and can be used to evaluate the face recognition model. Access the LFW dataset on Kaggle [here](https://www.kaggle.com/datasets/jessicali9530/lfw-dataset/data).
+
+### Notes
+
+- Use high-quality images for training to improve model performance.
+- PNG is recommended for high-quality images, but JPEG can be used for efficient storage.
+
 ## Setup Instructions
 
 1. **Clone the repository:**
